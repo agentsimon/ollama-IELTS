@@ -1,0 +1,1381 @@
+{
+  "Advertisements": [
+    {
+      "topic": "Describe an advertisement that persuaded you to buy a product.",
+      "cues": [
+        "What advertisement it was",
+        "Was it shown on TV, radio or newspaper",
+        "What was good about that advertisement",
+        "Explain why you think that advertisement made the product seem attractive."
+      ]
+    }
+  ],
+  "A Challenging Thing You Did": [
+    {
+      "topic": "Describe a challenging thing you have done.",
+      "cues": [
+        "when you did it",
+        "why you did it",
+        "how you handled this challenge",
+        "and explain why you thought it was challenging."
+      ]
+    }
+  ],
+  "A Person You Know": [
+    {
+      "topic": "Describe an old person that you know.",
+      "cues": [
+        "What your relationship is with this person",
+        "How often do you see them",
+        "What people think about this person",
+        "Explain why you like them."
+      ]
+    },
+    {
+      "topic": "Describe a child that you know and like a lot.",
+      "cues": [
+        "Who the child is",
+        "How do you know them",
+        "What do they enjoy doing",
+        "Explain why you like them a lot."
+      ]
+    },
+    {
+      "topic": "Describe someone who has had an important influence on your life.",
+      "cues": [
+        "Who the person is",
+        "How long you have known him/her",
+        "What qualities this person has",
+        "Explain why they have had such an influence on you."
+      ]
+    },
+    {
+      "topic": "Describe a person that you think is very interesting.",
+      "cues": [
+        "Who is this person",
+        "How you met them",
+        "What they like to talk about",
+        "Explain why this person is very interesting."
+      ]
+    },
+    {
+      "topic": "Describe a (very) intelligent person you know.",
+      "cues": [
+        "who is this person",
+        "when and where you (first) met them (him or her)",
+        "what this person does in life (e.g., work/ study)",
+        "and explain why you think this person is intelligent."
+      ]
+    },
+    {
+      "topic": "Describe your favourite teacher from school.",
+      "cues": [
+        "What school he/she taught at",
+        "What he/she looked like",
+        "What subject he/she taught you",
+        "Explain why you remember this teacher so well."
+      ]
+    },
+    {
+      "topic": "Describe your favourite childhood friend.",
+      "cues": [
+        "who he/she is",
+        "where you met each other",
+        "what you often did together",
+        "and explain what made you like him/her."
+      ]
+    },
+    {
+      "topic": "Describe a person you know who loves to grow plants (vegetables, fruits, flowers).",
+      "cues": [
+        "who is this person",
+        "what they grow",
+        "where they grow them",
+        "explain why they enjoy growing plants"
+      ]
+    }
+  ],
+  "Gifts": [
+    {
+      "topic": "Describe a present or gift you have given someone.",
+      "cues": [
+        "Who you gave it to",
+        "What kind of present it was",
+        "How it compared to other presents you have given",
+        "Explain why you decided to give this particular gift."
+      ]
+    },
+    {
+      "topic": "Describe a present or gift someone gave you that you really liked.",
+      "cues": [
+        "What kind of present it was",
+        "Who gave it to you",
+        "Why you were given it",
+        "Explain why you liked it."
+      ]
+    },
+    {
+      "topic": "Describe a present that you gave someone.",
+      "cues": [
+        "Who you gave it to",
+        "Why you decided to give them a present",
+        "Why you chose that present",
+        "And say how that present compares to other presents you have given that person or other people."
+      ]
+    }
+  ],
+  "A Person Who Taught You Something": [
+    {
+      "topic": "Describe a person who taught you something important.",
+      "cues": [
+        "who this person was",
+        "what they taught you",
+        "how they taught it to you",
+        "and explain why you think what they taught is important."
+      ]
+    }
+  ],
+  "Animal": [
+    {
+      "topic": "Describe an interesting animal you have seen.",
+      "cues": [
+        "What animal it was",
+        "When and Where you saw it",
+        "And explain how you feel about this animal",
+        "and explain why you think this animal is interesting."
+      ]
+    }
+  ],
+  "Art": [
+    {
+      "topic": "Talk about a painting you would like to have in your home.",
+      "cues": [
+        "what is it",
+        "how you know about it",
+        "how much it would cost you",
+        "and explain why you want to have it in your home."
+      ]
+    }
+  ],
+  "A Time When Someone Apologised To You": [
+    {
+      "topic": "Describe a time when someone apologised to you.",
+      "cues": [
+        "when this happened",
+        "what you were doing",
+        "who apologised to you",
+        "and explain why they apologised to you."
+      ]
+    }
+  ],
+  "Books": [
+    {
+      "topic": "Talk about a book you are reading now or have read recently.",
+      "cues": [
+        "How and why you got it",
+        "How long it took you to read it, or how long you have been reading it",
+        "What kind of book it is",
+        "And say if you would like to read something else similar or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about a book you have never read but would like to read.",
+      "cues": [
+        "How well-known it is",
+        "Why you would like to read it",
+        "Why you have never read it before",
+        "And say how you think it will compare to other books you have read"
+      ]
+    },
+    {
+      "topic": "Talk about a book or novel you recently read.",
+      "cues": [
+        "Who wrote this",
+        "What it is about",
+        "Explain if you enjoyed reading it",
+        "And why do you think you will read the book again or not?"
+      ]
+    },
+    {
+      "topic": "Describe your favourite book.",
+      "cues": [
+        "When you read the book",
+        "What the book is about",
+        "Why did you read it",
+        "Explain why this book is your favourite."
+      ]
+    },
+    {
+      "topic": "Talk about an English language book you have read or used.",
+      "cues": [
+        "Why you bought or used that book",
+        "What you learned from using it",
+        "If it was difficult or easy to use",
+        "And say if you would use a similar book again or not, and why"
+      ]
+    }
+  ],
+  "Buildings": [
+    {
+      "topic": "Describe a building that you particularly like.",
+      "cues": [
+        "Where the building is",
+        "What it looks like",
+        "What you can do there",
+        "Explain why you like this building."
+      ]
+    }
+  ],
+  "Business": [
+    {
+      "topic": "Describe a small business you want to start.",
+      "cues": [
+        "what business it would be",
+        "when you want to start it",
+        "why you have not started it yet",
+        "and explain why you want to start this business."
+      ]
+    },
+    {
+      "topic": "Describe a successful small business that you know about.",
+      "cues": [
+        "what business/company it is",
+        "what this business does",
+        "how you know about this business",
+        "and explain why you think this business/company is successful."
+      ]
+    }
+  ],
+  "Change": [
+    {
+      "topic": "Describe a positive change in your life.",
+      "cues": [
+        "what the change was about",
+        "when it happened",
+        "describe details of the change that happened",
+        "and describe how it affected you later in life."
+      ]
+    },
+    {
+      "topic": "Describe a change that could improve your local area.",
+      "cues": [
+        "what the change would be",
+        "how this change could be made",
+        "what problems are causing the need for this change",
+        "and explain how this change would improve your local area."
+      ]
+    }
+  ],
+  "Clothes": [
+    {
+      "topic": "Describe your favourite piece of clothing.",
+      "cues": [
+        "Where you got it",
+        "Do you often wear it",
+        "When you wear it",
+        "And explain why it is your favourite piece of clothing."
+      ]
+    },
+    {
+      "topic": "Describe a uniform you have worn (such as a school or company uniform).",
+      "cues": [
+        "what it looked like",
+        "when and where you needed to wear this uniform",
+        "who paid for this uniform",
+        "and explain how you felt about that uniform."
+      ]
+    }
+  ],
+  "City": [
+    {
+      "topic": "Describe your favourite city or a city you have visited that you like very much.",
+      "cues": [
+        "What is its name and where it is",
+        "when you visited it.",
+        "why you liked it",
+        "And the major attractions in this city are"
+      ]
+    }
+  ],
+  "Company": [
+    {
+      "topic": "Describe an organisation or a company that you know.",
+      "cues": [
+        "How big is it?",
+        "Do you find this company to be successful? Why?",
+        "What can you say about the working environment there?",
+        "And if you would like to work there."
+      ]
+    }
+  ],
+  "Daily Routine": [
+    {
+      "topic": "Describe your favourite part of the day.",
+      "cues": [
+        "What time of day this is",
+        "What you like to do at this time",
+        "Who you are usually with",
+        "Explain why this is your favourite part of the day."
+      ]
+    }
+  ],
+  "Decision": [
+    {
+      "topic": "Describe an important decision you have made.",
+      "cues": [
+        "what the decision was",
+        "why you made that choice",
+        "who helped you make the choice",
+        "and explain why the decision was so important."
+      ]
+    }
+  ],
+  "Electronic Devices": [
+    {
+      "topic": "Describe a useful electronic device you would like to own.",
+      "cues": [
+        "what it is",
+        "how it would help your life",
+        "if it would be expensive to buy",
+        "and explain why you would like it."
+      ]
+    },
+    {
+      "topic": "Describe a piece of electronic equipment that you have.",
+      "cues": [
+        "what it is",
+        "what you used it for",
+        "how long you have used it",
+        "and describe why it is important to you"
+      ]
+    },
+    {
+      "topic": "Describe a piece of electronic equipment that you find useful.",
+      "cues": [
+        "what it is",
+        "how you learned to use it",
+        "how long you have had it",
+        "and explain why you find this piece of electronic equipment useful."
+      ]
+    }
+  ],
+  "Entertainment": [
+    {
+      "topic": "Describe a comedian that you think is very funny.",
+      "cues": [
+        "Who the comedian is",
+        "Where they usually perform",
+        "Who likes to see the comedian",
+        "Explain why you think this comedian is very funny."
+      ]
+    },
+    {
+      "topic": "Describe a TV show that you enjoy.",
+      "cues": [
+        "What type of show it is",
+        "How often it is on",
+        "How popular it is with other people in your country",
+        "Explain why you like it."
+      ]
+    },
+    {
+      "topic": "Describe a performance you enjoyed watching.",
+      "cues": [
+        "what the performance was",
+        "when and where you watched the performance",
+        "who was performing (or who performed)",
+        "and explain why you enjoyed the performance."
+      ]
+    }
+  ],
+  "Environment": [
+    {
+      "topic": "Describe an environmental problem or event.",
+      "cues": [
+        "What it is",
+        "Where is it happening",
+        "What problems it causes",
+        "And what do you think will happen in the future regarding this event."
+      ]
+    }
+  ],
+  "Exercise": [
+    {
+      "topic": "Describe a type of exercise that you like to do.",
+      "cues": [
+        "What the exercise is",
+        "When you do it",
+        "Where you do it",
+        "Explain why you like this particular exercise."
+      ]
+    }
+  ],
+  "Exciting Experience": [
+    {
+      "topic": "Describe an exciting experience you’ve had.",
+      "cues": [
+        "when it was",
+        "where you were",
+        "what it was",
+        "And explain what made this experience especially exciting."
+      ]
+    }
+  ],
+  "Family": [
+    {
+      "topic": "Talk about the last time your whole family got together.",
+      "cues": [
+        "Where you met",
+        "What you did together",
+        "How long have you spent together",
+        "And say if you would like to do the same thing again soon or not, and why"
+      ]
+    },
+    {
+      "topic": "Describe a family member that you get on well with.",
+      "cues": [
+        "What their personality is like",
+        "What things they like doing",
+        "If they have any strong dislikes",
+        "And say why you think you have a good relationship"
+      ]
+    },
+    {
+      "topic": "Describe one of your relatives.",
+      "cues": [
+        "What that person looks like",
+        "What that person’s character is like",
+        "What they are doing at the moment",
+        "And say which other relative of yours they are most similar to"
+      ]
+    },
+    {
+      "topic": "Describe a family member you spend a lot of time with.",
+      "cues": [
+        "who is this person",
+        "what you usually do together",
+        "what kind of person he/she is",
+        "and explain why you spend the most time with him/her."
+      ]
+    }
+  ],
+  "Food": [
+    {
+      "topic": "Describe a famous food from your hometown or country.",
+      "cues": [
+        "What it looks like",
+        "What it tastes like",
+        "When and how it is usually eaten",
+        "And say why you think it is famous"
+      ]
+    },
+    {
+      "topic": "Describe a meal that you had that you remember well.",
+      "cues": [
+        "Where the meal was",
+        "Why you had the meal",
+        "Who you went with",
+        "Explain why you remember this particular occasion."
+      ]
+    },
+    {
+      "topic": "Describe a meal that you ate out.",
+      "cues": [
+        "Where you went",
+        "What you ate",
+        "Who you went with",
+        "Explain why you remember this meal."
+      ]
+    }
+  ],
+  "Friends": [
+    {
+      "topic": "Describe a friend who has played an important part in your life.",
+      "cues": [
+        "How you met this person",
+        "How long you have known him or her",
+        "The kind of things you do or have done together",
+        "And explain why this person has been important in your life"
+      ]
+    },
+    {
+      "topic": "Describe a friend you had in primary school.",
+      "cues": [
+        "What that person was like",
+        "How long you were friends for",
+        "What things you did together",
+        "And say whether you are still in contact with that person or not, and why"
+      ]
+    }
+  ],
+  "Furniture": [
+    {
+      "topic": "Describe a piece of furniture that you own.",
+      "cues": [
+        "what it is",
+        "where you bought it",
+        "how you use it",
+        "and explain why you like it."
+      ]
+    }
+  ],
+  "Garden": [
+    {
+      "topic": "Describe a garden or park you enjoyed visiting.",
+      "cues": [
+        "where it was",
+        "what it looked like",
+        "what you did (or were doing) there",
+        "and explain why you liked it."
+      ]
+    }
+  ],
+  "Health": [
+    {
+      "topic": "Describe your (or your friend’s) experience with an illness or injury.",
+      "cues": [
+        "What it was",
+        "When it happened",
+        "How you (or your friend) handled it",
+        "and say how you feel about it now."
+      ]
+    },
+    {
+      "topic": "Describe something healthy you enjoy doing.",
+      "cues": [
+        "What you do",
+        "Where you do it",
+        "Who do you do it with",
+        "and explain why you think doing this is healthy."
+      ]
+    },
+    {
+      "topic": "Describe an article you read in a magazine or on the Internet that could help people improve their health.",
+      "cues": [
+        "when you read it",
+        "where you read it",
+        "what it was about",
+        "and explain why (you think) it could improve people’s health."
+      ]
+    }
+  ],
+  "Help": [
+    {
+      "topic": "Describe a time when you helped someone.",
+      "cues": [
+        "When you helped",
+        "How you helped",
+        "How you felt after helping",
+        "And if you will help them in the future."
+      ]
+    }
+  ],
+  "History": [
+    {
+      "topic": "Describe a historical place that you have visited.",
+      "cues": [
+        "what kind of place it is",
+        "where it is located",
+        "what is the historical significance of the place is",
+        "and describe your experience of the place."
+      ]
+    }
+  ],
+  "Hobbies": [
+    {
+      "topic": "Talk about a leisure activity you did when you were a child.",
+      "cues": [
+        "How you first became interested in it",
+        "How long you did it, or have been doing it for",
+        "Why you enjoyed doing it",
+        "And say if you have become more or less interested in that hobby since you were a child, and why."
+      ]
+    }
+  ],
+  "Holiday": [
+    {
+      "topic": "Talk about an activity you like doing when you are on holiday.",
+      "cues": [
+        "Where do you usually do it",
+        "Who do you do it with",
+        "Why do you enjoy it",
+        "And say whether you also enjoyed doing that when you were a child or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about somewhere you went on holiday.",
+      "cues": [
+        "How you got there",
+        "What activities you did there",
+        "Who you went with",
+        "And say if you would recommend that holiday to a friend or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about your dream holiday.",
+      "cues": [
+        "Where you would like to go",
+        "What kind of accommodations you would like",
+        "What activities you would like to do",
+        "And say if you ever think you will go on a holiday like that or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about your plans for your next long vacation.",
+      "cues": [
+        "Where do you want to go",
+        "Who do you want to go there with",
+        "What do you want to do when you get there",
+        "And say how likely you are to do what you have planned and why."
+      ]
+    },
+    {
+      "topic": "Describe a holiday that you recently went on that you enjoyed.",
+      "cues": [
+        "Where you went",
+        "Who you went with",
+        "What you did",
+        "Explain why this holiday was enjoyable."
+      ]
+    }
+  ],
+  "Home": [
+    {
+      "topic": "Describe a house or apartment you would like to live in.",
+      "cues": [
+        "where it is / Where it would be",
+        "what you would (like to) do there",
+        "who you would (like to) live therewith",
+        "and explain why you would like to live in this place."
+      ]
+    }
+  ],
+  "Hometown": [
+    {
+      "topic": "Describe an important building in your hometown or city.",
+      "cues": [
+        "where it is",
+        "what it looks like",
+        "what it is used for",
+        "and explain why you think it is important."
+      ]
+    }
+  ],
+  "Influence": [
+    {
+      "topic": "Describe someone who has had an important influence in your life.",
+      "cues": [
+        "Who the person is",
+        "How long you have known him or her",
+        "What qualities this person has",
+        "and explain why this person has had such an influence on you."
+      ]
+    }
+  ],
+  "Internet": [
+    {
+      "topic": "Describe a website that you often use.",
+      "cues": [
+        "what type of website it is",
+        "how you found out about it",
+        "what it allows you to do, and why you find it useful.",
+        "And how it compares to other similar websites."
+      ]
+    },
+    {
+      "topic": "Describe a website that you visit a lot.",
+      "cues": [
+        "What is the website about",
+        "How you found the website",
+        "Who else you told about the website",
+        "Explain why you visit the website a lot."
+      ]
+    }
+  ],
+  "Language": [
+    {
+      "topic": "Talk about one method of learning a foreign language you have used.",
+      "cues": [
+        "What you did",
+        "How long have you used this method for",
+        "How it compares to other methods of learning a language",
+        "And say if you will use that same method in the future or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about a language test you have taken.",
+      "cues": [
+        "Where you took the test",
+        "How long it took",
+        "What skills and language knowledge you were tested on",
+        "And say if you think the test was a good indicator of your language level or not, and why."
+      ]
+    }
+  ],
+  "Lake/River": [
+    {
+      "topic": "Describe an important lake/river in your country.",
+      "cues": [
+        "where it is located",
+        "how big/long it is",
+        "what it looks like",
+        "explain why it is important"
+      ]
+    }
+  ],
+  "Late": [
+    {
+      "topic": "Describe a time you were late for something.",
+      "cues": [
+        "when it was",
+        "why you were late",
+        "how people reacted to you being late",
+        "and explain what happened because you were late."
+      ]
+    }
+  ],
+  "Machine": [
+    {
+      "topic": "Describe the most useful household appliance that you have.",
+      "cues": [
+        "What it is",
+        "How it works",
+        "How life would be without it",
+        "And explain why it is so important to you."
+      ]
+    }
+  ],
+  "Memory": [
+    {
+      "topic": "Describe an occasion when you forgot something important.",
+      "cues": [
+        "what you forgot",
+        "how important it was",
+        "Some possible reasons why you forgot it",
+        "And if you think this will happen again."
+      ]
+    }
+  ],
+  "Memories": [
+    {
+      "topic": "Describe a happy childhood event.",
+      "cues": [
+        "When it happened",
+        "Who was involved",
+        "How you felt at the time",
+        "Explain why you remember this particular occasion."
+      ]
+    }
+  ],
+  "Mobile phone": [
+    {
+      "topic": "Describe a time when you couldn’t use your mobile phone.",
+      "cues": [
+        "where it was",
+        "what you were doing at this time",
+        "when it was",
+        "and explain why you were not able to use your mobile phone."
+      ]
+    }
+  ],
+  "Money": [
+    {
+      "topic": "Describe what you would do if you received a very large amount of money.",
+      "cues": [
+        "who you would share it with",
+        "what you would buy",
+        "what else you would do",
+        "and explain how you would feel about getting so much money."
+      ]
+    },
+    {
+      "topic": "Describe a special day out that cost you little money/did not cost you much.",
+      "cues": [
+        "when the day was",
+        "where you went",
+        "how much you spend",
+        "and explain how you feel about the day."
+      ]
+    },
+    {
+      "topic": "Describe something (special) that you saved money to buy.",
+      "cues": [
+        "what it was",
+        "how long it took you to save enough money to buy it",
+        "why you wanted to buy this thing",
+        "how you got (or, earned) the money",
+        "and explain how you felt when (or, after) you bought it."
+      ]
+    }
+  ],
+  "Music": [
+    {
+      "topic": "Talk about a musical instrument you would like to be able to play but have never tried.",
+      "cues": [
+        "What the instrument looks like",
+        "What it sounds like",
+        "What kinds of people it is popular with",
+        "And say if you think you will ever try to play that instrument or not, and why"
+      ]
+    },
+    {
+      "topic": "Describe your favourite song.",
+      "cues": [
+        "What is the name of the song",
+        "What the song is about",
+        "When you first heard the song",
+        "Explain why it is your favourite song."
+      ]
+    }
+  ],
+  "News": [
+    {
+      "topic": "Describe an interesting piece of news that you have recently read about or heard about.",
+      "cues": [
+        "what the story was",
+        "who was involved in the story",
+        "where you read or heard about this story",
+        "and explain why this news story was interesting to you."
+      ]
+    },
+    {
+      "topic": "Describe some good news that you recently received.",
+      "cues": [
+        "What the news was",
+        "How you got the news",
+        "Who else you told about it",
+        "Explain why this was good news."
+      ]
+    },
+    {
+      "topic": "Describe a person who is often in the news and who you would like to meet.",
+      "cues": [
+        "who is this person is",
+        "how do you know him/her",
+        "why he/she is often in the news",
+        "and explain why you would like to meet him/her."
+      ]
+    }
+  ],
+  "Parenting": [
+    {
+      "topic": "Describe people that you know and believe to be very good parents.",
+      "cues": [
+        "Who they are",
+        "How you met them",
+        "Why do you think they are good parents",
+        "And explain what it requires to be good parents."
+      ]
+    }
+  ],
+  "Party": [
+    {
+      "topic": "Describe the best party you have been to.",
+      "cues": [
+        "whose party it was",
+        "who was there",
+        "what happened at the party",
+        "and explain what made it so enjoyable."
+      ]
+    },
+    {
+      "topic": "Talk about a birthday party you can remember well.",
+      "cues": [
+        "How you celebrated",
+        "Who you were with",
+        "Why do you remember that day",
+        "And say how it was different from other birthdays you have had before or since"
+      ]
+    }
+  ],
+  "Celebrations": [
+    {
+      "topic": "Describe a typical festival or celebration in your country.",
+      "cues": [
+        "When it usually happens",
+        "What it is celebrating",
+        "What people do",
+        "And say if that is your favourite celebration or not, and why"
+      ]
+    },
+    {
+      "topic": "Describe your favourite festival or celebration.",
+      "cues": [
+        "What time of year it is",
+        "Why do you like it",
+        "What you usually do",
+        "And say how that festival or celebration compares to others in your country or abroad."
+      ]
+    }
+  ],
+  "Crowded Place": [
+    {
+      "topic": "Describe a crowded place you’ve been to.",
+      "cues": [
+        "when you go there",
+        "where the place is (or was)",
+        "who you went therewith",
+        "and explain how you felt about the place."
+      ]
+    }
+  ],
+  "Plans": [
+    {
+      "topic": "Talk about one thing you are going to do next weekend.",
+      "cues": [
+        "Where you are going to do it",
+        "Who you are going to do it with",
+        "Any equipment you need to do it",
+        "And say whether you are looking forward to it or not and why"
+      ]
+    },
+    {
+      "topic": "Talk about one thing you are planning to do after you pass the IELTS test.",
+      "cues": [
+        "When you think you will do it",
+        "Why do you want to do it",
+        "How long you have had that plan",
+        "And say whether there are any other options for what you could do which might be just as good."
+      ]
+    },
+    {
+      "topic": "Talk about a goal or ambition you have.",
+      "cues": [
+        "When and why you first discovered you had that goal or ambition",
+        "What you need to do to make it come true",
+        "What your next step needs to be",
+        "And say if you think you will achieve that goal or ambition or not, and why"
+      ]
+    }
+  ],
+  "Presents or Gifts": [
+    {
+      "topic": "Describe a photograph that you like.",
+      "cues": [
+        "Who is in the photograph",
+        "When the photograph was taken",
+        "Where the photograph is",
+        "Explain why you like the photograph."
+      ]
+    }
+  ],
+  "Products": [
+    {
+      "topic": "Describe something which is produced in your country, such as food, a handicraft, or a car.",
+      "cues": [
+        "what it is",
+        "what it is used for",
+        "how it is made or produced",
+        "and explain why your country produces this thing."
+      ]
+    }
+  ],
+  "Reading": [
+    {
+      "topic": "Describe a website that you visit a lot.",
+      "cues": [
+        "What is the website about",
+        "How you found the website",
+        "Who else you told about the website",
+        "Explain why you visit the website a lot."
+      ]
+    }
+  ],
+  "Restaurants": [
+    {
+      "topic": "Describe a restaurant or a cafe you often go to.",
+      "cues": [
+        "Where it is",
+        "What it looks like",
+        "What kind of services are provided",
+        "What kind of food do you like there/ What kind of food is famous?",
+        "And say why you like it."
+      ]
+    }
+  ],
+  "Rules": [
+    {
+      "topic": "Describe a traffic rule or law you know about.",
+      "cues": [
+        "what it is",
+        "how you know about it",
+        "if you follow this rule or law",
+        "and explain why this rule is important."
+      ]
+    },
+    {
+      "topic": "Describe a rule you had to obey when you were in school.",
+      "cues": [
+        "what the rule was",
+        "if you agreed with the rule",
+        "why the rule existed",
+        "and what would happen if students broke the rule."
+      ]
+    }
+  ],
+  "School": [
+    {
+      "topic": "Describe a school that you are attending or attended in the past.",
+      "cues": [
+        "What it looks like from the outside",
+        "What it looks like inside",
+        "What facilities it has",
+        "And say if you think it is a good school building or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about a subject you would like to study in the future.",
+      "cues": [
+        "Why do you want to study that subject",
+        "What things about that subject do you find particularly interesting",
+        "Where it is possible to study that subject",
+        "And say if you think you will start studying it soon or not, and why"
+      ]
+    }
+  ],
+  "Science": [
+    {
+      "topic": "Describe an area of science that you are interested in.",
+      "cues": [
+        "What it is",
+        "What you can learn from it",
+        "When you started becoming interested in it",
+        "And explain how this area of science helps you"
+      ]
+    },
+    {
+      "topic": "Describe a scientific subject that you learned about in high school.",
+      "cues": [
+        "what subject it was",
+        "who taught you this subject",
+        "what you learned from it",
+        "and explain how this subject helped you in your life."
+      ]
+    }
+  ],
+  "Shopping": [
+    {
+      "topic": "Describe a shopping street in your hometown.",
+      "cues": [
+        "What things you can buy there",
+        "What are the most popular shops",
+        "Any changes there have been over the years",
+        "And say if you think shopping there will become more or less popular in the future, and why."
+      ]
+    },
+    {
+      "topic": "Describe a shop in your hometown or the place you are living now.",
+      "cues": [
+        "Where it is",
+        "What it sells",
+        "What are the advantages of shopping there are",
+        "And, if you think it will be popular or not in the future, and why"
+      ]
+    }
+  ],
+  "Social Problems": [
+    {
+      "topic": "Describe a problem in your city.",
+      "cues": [
+        "what it is",
+        "how serious it is",
+        "what causes this problem",
+        "and say what can be done to solve or reduce the effects of this problem."
+      ]
+    }
+  ],
+  "Something Difficult To Use": [
+    {
+      "topic": "Describe something you bought that was difficult to use at first.",
+      "cues": [
+        "what it was",
+        "why you bought it",
+        "how you use it",
+        "and explain why it was difficult to use at first."
+      ]
+    }
+  ],
+  "Sports": [
+    {
+      "topic": "Talk about a sport you like doing or watching.",
+      "cues": [
+        "How you first became interested in it",
+        "Why you are interested in it",
+        "What equipment and skills are needed for it",
+        "And say if you think it is an easy sport to do or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about a sport many people enjoy, but you have never tried.",
+      "cues": [
+        "What equipment is needed for it",
+        "What some of the rules are",
+        "What kinds of people this sport is popular with",
+        "And say if you think you will do this sport in the near future or not, and why"
+      ]
+    },
+    {
+      "topic": "Talk about a sport that interests you, but you have never tried.",
+      "cues": [
+        "Where it is usually played",
+        "What kinds of people usually play it",
+        "Why it interests you",
+        "And say if you think you will ever do this sport or not, and why"
+      ]
+    },
+    {
+      "topic": "Describe a sporting event you attended.",
+      "cues": [
+        "What kind of sport is was",
+        "How it compared to other events you’ve been to",
+        "How often it takes place",
+        "Explain why you consider this event to be of interest."
+      ]
+    },
+    {
+      "topic": "Describe a sport that you would like to try.",
+      "cues": [
+        "Which sport it is",
+        "Where you could do the sport",
+        "Who you could do it with",
+        "Explain why this sport would be good to try."
+      ]
+    }
+  ],
+  "Teachers": [
+    {
+      "topic": "Describe the best teacher you have had.",
+      "cues": [
+        "what subject the teacher taught",
+        "when you studied with him or her",
+        "what made that person a good teacher",
+        "and explain why you think this person was the best teacher you’ve had."
+      ]
+    }
+  ],
+  "Text message": [
+    {
+      "topic": "Describe an important text message you received.",
+      "cues": [
+        "who sent the message",
+        "what was in the message",
+        "why the person sent the message",
+        "and explain why the message was important to you."
+      ]
+    }
+  ],
+  "Things": [
+    {
+      "topic": "Describe something you own which is very important to you.",
+      "cues": [
+        "where you got it",
+        "how long you have had it",
+        "what you use it to do",
+        "And explain why it is important to you."
+      ]
+    }
+  ],
+  "Traditional Product": [
+    {
+      "topic": "Talk about a traditional product which is very popular in your country.",
+      "cues": [
+        "What the product is",
+        "How it is made",
+        "Why it is popular",
+        "And if it is popular in other countries."
+      ]
+    },
+    {
+      "topic": "Describe a traditional product in your country.",
+      "cues": [
+        "what the product is",
+        "when you tried this product for the first time",
+        "what it is made of",
+        "and explain how you feel about it."
+      ]
+    }
+  ],
+  "Transportation": [
+    {
+      "topic": "Describe the transportation system in your hometown or the place you are living now.",
+      "cues": [
+        "What kind of transportation there is",
+        "Which kind of transportation do most people use",
+        "What are the good points and bad points of the transportation system are",
+        "And say if you think most people are happy with the transportation system or not, and why."
+      ]
+    },
+    {
+      "topic": "Talk about one means of transportation that you often use.",
+      "cues": [
+        "Where you usually go by that means of transportation",
+        "What the advantages of that method of travelling are",
+        "What the disadvantages are",
+        "And say if you think you will use that means of transport more or less often in the future, and why."
+      ]
+    },
+    {
+      "topic": "Describe a trip you took by public transport.",
+      "cues": [
+        "when it happened",
+        "what means of transport you took",
+        "what you did during the trip",
+        "and explain how you felt about the trip."
+      ]
+    }
+  ],
+  "Travel": [
+    {
+      "topic": "Describe a journey you have been on.",
+      "cues": [
+        "Where you went",
+        "What kind or kinds of transport you used",
+        "How long the journey took",
+        "And say whether you think it was easy to take this journey or not, and why."
+      ]
+    },
+    {
+      "topic": "Talk about something tourists like to do in your country.",
+      "cues": [
+        "How well-known the activity is",
+        "Why it is popular",
+        "What kinds of people like to do it",
+        "And say if you think it will become more popular or less popular in the future and why"
+      ]
+    },
+    {
+      "topic": "Talk about a day trip you have been on.",
+      "cues": [
+        "Where you went",
+        "How you travelled",
+        "Why you chose to go to that place",
+        "And say whether you would like to go back to the same place again or not, and why."
+      ]
+    },
+    {
+      "topic": "Talk about a part of your country you have never been to but would like to visit.",
+      "cues": [
+        "Why you have never been there before",
+        "If or when you think you might go",
+        "Why you would like to go",
+        "And say how you first became interested in going to that place."
+      ]
+    },
+    {
+      "topic": "Talk about a foreign country you have never been to but would like to visit.",
+      "cues": [
+        "Why you have never been there before",
+        "If or when you think you might go",
+        "Why you would like to go",
+        "And say how you first became interested in going to that place."
+      ]
+    },
+    {
+      "topic": "Describe a country you would like to visit in the future that you haven’t been to yet.",
+      "cues": [
+        "Which country it is",
+        "Where it is located in the world",
+        "What you could see there",
+        "Explain why this country would be such a good place to visit."
+      ]
+    },
+    {
+      "topic": "Describe a lake, a river or a sea you have visited.",
+      "cues": [
+        "Where the lake is",
+        "How often you have visited it",
+        "What activities you do there",
+        "Explain why you like this particular place."
+      ]
+    }
+  ],
+  "TV": [
+    {
+      "topic": "Describe a TV programme that you often watch.",
+      "cues": [
+        "What kind of programme it is",
+        "Why you watch it",
+        "When and why you first started watching it",
+        "And say if you think that programme is better than other TV programmes that are on at the same time or not, and why"
+      ]
+    }
+  ],
+  "Vegetables": [
+    {
+      "topic": "Describe a plant, vegetable or crop that you are familiar with.",
+      "cues": [
+        "Where it grows",
+        "Why is it important",
+        "What you like or dislike about it",
+        "And explain why it is important for your country."
+      ]
+    }
+  ],
+  "Weather": [
+    {
+      "topic": "Describe a time when the weather prevented you from doing something.",
+      "cues": [
+        "what your plan was",
+        "what weather you were hoping for",
+        "what happened",
+        "and explain how you felt when you had to change your plans."
+      ]
+    }
+  ],
+  "Work": [
+    {
+      "topic": "Describe your dream job.",
+      "cues": [
+        "What kind of things you would do in that job",
+        "What the working conditions would be like",
+        "What kind of workplace you would work in",
+        "And say if you think you will be able to get a job like that or not, and why."
+      ]
+    },
+    {
+      "topic": "Describe your dream workplace.",
+      "cues": [
+        "What it would look like",
+        "What facilities it would have",
+        "Where it would be",
+        "And say if you think you will ever work in a place like that or not, and why."
+      ]
+    },
+    {
+      "topic": "Talk about a job you have done or know about.",
+      "cues": [
+        "What people do in that job",
+        "What kind of place they work in",
+        "What clothes and equipment they need",
+        "And say if you think it is a satisfying job to do or not, and why."
+      ]
+    },
+    {
+      "topic": "Talk about a job someone in your family does.",
+      "cues": [
+        "How long that person has been doing that job",
+        "What the good things about that job are",
+        "What the difficulties of doing that job are",
+        "And say if you think that person enjoys their job or not, and why."
+      ]
+    },
+    {
+      "topic": "Describe a workplace you have worked in or know about.",
+      "cues": [
+        "What the building looks like",
+        "What is inside the building",
+        "What things there are to do in the local area",
+        "And say if you think it is a good place to work or not, and why."
+      ]
+    },
+    {
+      "topic": "Describe a job you would like to do in the future.",
+      "cues": [
+        "How and when you first became interested in that job",
+        "What people in that job have to do every day",
+        "What qualifications and experience do you need in order to get that job",
+        "And say if you think you will be able to get that job or not, and why."
+      ]
+    }
+  ]
+}

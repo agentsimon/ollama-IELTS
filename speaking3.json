@@ -1,0 +1,409 @@
+{
+  "topics": [
+    {
+      "topic": "Love, Dating & Marriage",
+      "questions": [
+        "If you are 35 years old without marriage, do you still waiting for your true love? Why?",
+        "Who will pay for the wedding cost? Man or woman or both? Why?",
+        "What do you think is the best age to marry?",
+        "Does getting married mean giving up freedom?"
+      ]
+    },
+    {
+      "topic": "Advertising",
+      "questions": [
+        "How do advertisements attract attention?",
+        "Do young and old people have the same attitudes towards advertisements?",
+        "Do you think advertisements are a good or bad influence on children?",
+        "What are the harmful and the beneficial effects of advertising?"
+      ]
+    },
+    {
+      "topic": "Animals & Pets",
+      "questions": [
+        "Do you think animals have feelings and rights? (Why?/Why not?)",
+        "Some people breed animals such as dogs for money. How do you feel about that?",
+        "What can children learn by having a pet?",
+        "What are the pros and cons of keeping a pet?"
+      ]
+    },
+    {
+      "topic": "Law",
+      "questions": [
+        "Is there any situation people disobey the law? / Do you think that people obey the law all the time?",
+        "Do people like being a policeman in your country?",
+        "What qualities should a police officer have?",
+        "Why some people prefer to be a lawyer?"
+      ]
+    },
+    {
+      "topic": "School subjects",
+      "questions": [
+        "Can computers help us in math areas?",
+        "What methods can be applied to make math class more interesting?",
+        "What are the advantages and disadvantages of using a calculator?",
+        "Do you think students should choose subjects they like?"
+      ]
+    },
+    {
+      "topic": "Cellphones",
+      "questions": [
+        "For children, what age do you think is suitable to allow them to use cellphones?",
+        "What do teenagers in your country use cellphones for?",
+        "What are the advantages/disadvantages of using cellphones?",
+        "Why are many people addicted to apps?"
+      ]
+    },
+    {
+      "topic": "City & Countryside",
+      "questions": [
+        "What are the advantages of living in the countryside?",
+        "What are the disadvantages of living in the countryside?",
+        "What’s the difference between living in the city and countryside?",
+        "What interesting things can we do in big cities?"
+      ]
+    },
+    {
+      "topic": "Music",
+      "questions": [
+        "Why do you think that some local singers or musicians aren’t as successful as some from other countries?",
+        "Do you think the Internet has affected the music industry? In what ways?",
+        "Do you think there will be further changes in the music industry in the future?",
+        "Do you think the music young people listen to in your country is becoming more globalized? Why/Why not?"
+      ]
+    },
+    {
+      "topic": "Handwriting",
+      "questions": [
+        "Is handwriting still important?",
+        "What are the disadvantages of handwriting?",
+        "What is the future of handwriting?",
+        "Do you think that handwriting expresses personality?"
+      ]
+    },
+    {
+      "topic": "Weather",
+      "questions": [
+        "Do you think weather has an influence on people’s mood?",
+        "How do you feel about the climate in recent years?",
+        "What do people usually do in winter?",
+        "How do people find it to work in extremely cold or hot weather?"
+      ]
+    },
+    {
+      "topic": "Work/Job",
+      "questions": [
+        "Is salary important to you? What is the impact of salary on doing work?",
+        "Is it hard to find an interesting job in your country?",
+        "Why do some people keep changing their jobs?",
+        "What are the disadvantages of working overtime?"
+      ]
+    },
+    {
+      "topic": "Public speaking",
+      "questions": [
+        "Why do people feel nervous when they are giving a speech to others?",
+        "How can people improve their public speaking skills?",
+        "Can you suggest any methods that would help reduce nervousness?",
+        "What is required to be a good public speaker?"
+      ]
+    },
+    {
+      "topic": "Shopping",
+      "questions": [
+        "Why some people choose to buy in the street market rather than the shopping mall?",
+        "Do you think online shopping will replace shopping in reality?",
+        "How is online shopping so popular these days?",
+        "Do you think customers’ complaints will improve products or services?"
+      ]
+    },
+    {
+      "topic": "Time management",
+      "questions": [
+        "What is the main reason people cannot have enough time to do?",
+        "How can people balance their time for working and their private life?",
+        "Is it important for people to relax during a day?",
+        "Do people can control their time wisely when they are older?"
+      ]
+    },
+    {
+      "topic": "Toys",
+      "questions": [
+        "Do you think playing with electronic toys has a good influence on kids?",
+        "Which do you think is better, for children to play with toys alone or with other kids?",
+        "Why do parents buy lots of toys for their children?",
+        "What are the differences between today’s toys and old toys?"
+      ]
+    },
+    {
+      "topic": "Politeness",
+      "questions": [
+        "Are people more polite with non-family members than they are with their parents?",
+        "Why is it important to show respect to others?",
+        "How do people show politeness in your country?",
+        "What kinds of behavior are not polite?"
+      ]
+    },
+    {
+      "topic": "Book & Reading",
+      "questions": [
+        "What kinds of books that old people like to read?",
+        "Do you think that the internet and television will eventually make books obsolete?",
+        "What kind of books are considered good reads in your opinion?",
+        "If a movie is based on a book, would you prefer to read the book or to watch the film? Why?"
+      ]
+    },
+    {
+      "topic": "Culture",
+      "questions": [
+        "Do you think it’s important to know about other cultures?",
+        "How can we benefit from learning about other cultures?",
+        "What do you think is the best way to learn about another culture?",
+        "What is considered rude in your culture?"
+      ]
+    },
+    {
+      "topic": "Family",
+      "questions": [
+        "In a typical family, who plays the leading role?",
+        "In your country, what kinds of family members usually live together?",
+        "What impact has divorce and/or modern day living had on the family?",
+        "Where is the best place to raise a family?"
+      ]
+    },
+    {
+      "topic": "Education",
+      "questions": [
+        "What kinds of courses are useful for university students?",
+        "Are college tuitions reasonable in your country?",
+        "Does education guarantee a good job?",
+        "What are the qualities of a good teacher?"
+      ]
+    },
+    {
+      "topic": "Food & Eating",
+      "questions": [
+        "Describe what you think is a healthy diet.",
+        "Why do you think some people choose to be vegetarians?",
+        "Is the food that people eat today in your country different to the food that people used to eat in the past?",
+        "Do you think a vegetarian diet is better than a diet that includes meat?"
+      ]
+    },
+    {
+      "topic": "Free time & Hobbies",
+      "questions": [
+        "How do people in your country spend free time?",
+        "Is it important to have a hobby?",
+        "How do the women in your country usually spend their free time?",
+        "Do people’s leisure time activities change as they get older? How?"
+      ]
+    },
+    {
+      "topic": "Friends",
+      "questions": [
+        "Why some people lose contact with their childhood friends?",
+        "How do people in your country make friends these days?",
+        "What qualities do you think are important in a friend?",
+        "Friendship is the most important relationship. Do you agree? Why? Why not?"
+      ]
+    },
+    {
+      "topic": "Plan",
+      "questions": [
+        "Which do you prefer? Having plans or having no plans?",
+        "In general, do you think planning is important?",
+        "Why do people make plans?",
+        "What is your plan for the rest of the day?"
+      ]
+    },
+    {
+      "topic": "Gender roles",
+      "questions": [
+        "Is it possible for women to join the army in your country?",
+        "In your country are the responsibilities of a mother the same as the responsibilities of a father to their families?",
+        "Are men and women equal in ability and intelligence?",
+        "Are there more male or female managers and executives? Why do you think this is?"
+      ]
+    },
+    {
+      "topic": "Health",
+      "questions": [
+        "Do women pay more attention to their health than men?",
+        "Could governments do more to promote healthier lifestyle options?",
+        "What are some things people can do to keep healthy?",
+        "What are the advantages or disadvantages of modern medicine?"
+      ]
+    },
+    {
+      "topic": "Internet",
+      "questions": [
+        "What are some of the different reasons why people use the Internet?",
+        "What influences can (or, does) the Internet have on children/teenagers?",
+        "Do you think our lives have been improved by the Internet?",
+        "What is the best thing about the Internet?"
+      ]
+    },
+    {
+      "topic": "Sports and Competition",
+      "questions": [
+        "What kinds of sports are popular in your country?",
+        "Do you think young people should play dangerous sports?",
+        "What are the benefits of playing a sport?",
+        "How can sports bring people from different countries closer together?"
+      ]
+    },
+    {
+      "topic": "Language",
+      "questions": [
+        "What kind of quality should a language teacher have?",
+        "Why people want to learn a foreign language?",
+        "Do you think that disappearing languages should be protected or should we just let them fade away?",
+        "Why is English used in so many places?"
+      ]
+    },
+    {
+      "topic": "Money",
+      "questions": [
+        "Why do young people tend to waste money?",
+        "How do people become rich?",
+        "Why do people often want more money, no matter how much they have got?",
+        "Do you think that riches can have a bad effect on a person? How?"
+      ]
+    },
+    {
+      "topic": "Science & Technology",
+      "questions": [
+        "What is the most common technology used by people in your country?",
+        "Does it possible to live without technology?",
+        "What are the advantages and disadvantages of technology?",
+        "How do you think modern technology will change the way people work in the future?"
+      ]
+    },
+    {
+      "topic": "Social network",
+      "questions": [
+        "What social network do people in your country usually use?",
+        "What are some good points about social networking?",
+        "What are some bad points about social networking?",
+        "What type of information should you put on social networking sites?"
+      ]
+    },
+    {
+      "topic": "Teenagers",
+      "questions": [
+        "How much freedom should parents give to their teenagers?",
+        "What do you think are some of the greatest problems facing teenagers today?",
+        "What’s the difference between teenage girls and teenage boys?",
+        "What is it like to be a teenager in your society?"
+      ]
+    },
+    {
+      "topic": "Transportation",
+      "questions": [
+        "What measures should the government take to solve transportation problems in traveling?",
+        "What types of public transport can be found in your country?",
+        "Are there any public transport problems in your country?",
+        "How to encourage more people to take public transportation?"
+      ]
+    },
+    {
+      "topic": "Travel & Holidays",
+      "questions": [
+        "Do you think modern life give people enough time for leisure?",
+        "What’s the most important factor for a tourist attraction?",
+        "What are the pros and cons of low-cost air travel?",
+        "How do you think people will travel in the future?"
+      ]
+    },
+    {
+      "topic": "Parents/ Children",
+      "questions": [
+        "What are parents’ responsibilities for their children?",
+        "What’s the influence of parents on their children?",
+        "Should parents reward their children for the good things that they do?",
+        "What do you think about single mothers?"
+      ]
+    },
+    {
+      "topic": "News/Magazines",
+      "questions": [
+        "What kinds of magazines are popular?",
+        "Why do some people still read paper magazines?",
+        "Do you think it’s important to keep up with the news?",
+        "What is the role of newspapers in society?"
+      ]
+    },
+    {
+      "topic": "Environment & Pollution",
+      "questions": [
+        "What do you think is the main danger the world face in term of environment?",
+        "Do you think people should recycle newspapers? Why or why not?",
+        "What are some types of pollution?",
+        "What should we do to increase the awareness about environmental pollution?"
+      ]
+    },
+    {
+      "topic": "Fashion & Clothes",
+      "questions": [
+        "What kinds of clothes do people wear after work?",
+        "Do you think it is necessary for children to wear school uniforms?",
+        "Is fashion important where you live?",
+        "What do you think the clothes we wear say about us?"
+      ]
+    },
+    {
+      "topic": "Generation gap",
+      "questions": [
+        "Why do some young people dislike living with old people?",
+        "What are the causes of generation gap?",
+        "Is it possible for parents and children to be friends?",
+        "Do you think teenagers today are better than those 30 years ago?"
+      ]
+    },
+    {
+      "topic": "Television",
+      "questions": [
+        "Do young people like to watch TV nowadays?",
+        "What kind of TV programs do young people like?",
+        "Do you think TV will be replaced by computers?",
+        "What effects can watching television have on children?"
+      ]
+    },
+    {
+      "topic": "Photography",
+      "questions": [
+        "How to become a professional photographer?",
+        "What kinds of devices do people like to use for taking photos these days?",
+        "Why do some people like to keep photos? / Are photos important?",
+        "What are the pros and cons of digital photography?"
+      ]
+    },
+    {
+      "topic": "Films/ Movie",
+      "questions": [
+        "Is drama series popular in your country? Why?",
+        "What is the influence of foreign show on people in your country?",
+        "Should films and television be censored or should we be free to choose what we see?",
+        "Do you think the cinema has increased or decreased in popularity in recent years?"
+      ]
+    },
+    {
+      "topic": "Retirement and old age",
+      "questions": [
+        "When should people start saving for retirement?",
+        "At what age should people retire from work?",
+        "What problems can people face after retirement?",
+        "How important are retirees to your country’s economy?"
+      ]
+    },
+    {
+      "topic": "Universities",
+      "questions": [
+        "Should all students pay for their university education?",
+        "Is higher education too expensive in your country?",
+        "What advantages do universities bring to society?",
+        "What makes a university successful?"
+      ]
+    }
+  ]
+}

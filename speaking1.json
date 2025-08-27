@@ -1,0 +1,472 @@
+{
+  "topics": [
+    {
+      "topic": "Accommodation",
+      "questions": [
+        "Tell me about the kind of accommodation you live in.",
+        "Do you live in a house or a flat?",
+        "What do you like about living there?",
+        "How long have you lived there?"
+      ]
+    },
+    {
+      "topic": "Advertisements",
+      "questions": [
+        "Do you like watching advertisements?",
+        "Will you buy something because of an advertisement?",
+        "How do you feel when you see pop-up ads on the internet?",
+        "What makes a good advertisement?"
+      ]
+    },
+    {
+      "topic": "Art & Photography",
+      "questions": [
+        "Do you like art?",
+        "How do you think art classes affect children’s development?",
+        "Do you like to take photographs?",
+        "Do you prefer to take pictures of people or of scenery?"
+      ]
+    },
+    {
+      "topic": "Animals",
+      "questions": [
+        "Do you like animals?",
+        "What is your favourite animal?",
+        "Do you think animals should be kept in zoos?",
+        "Do you have any animals in your home as a pet?"
+      ]
+    },
+    {
+      "topic": "Bags & Boat",
+      "questions": [
+        "Have you ever taken a ride on a boat?",
+        "Do you like travelling by boat?",
+        "Do you like bags?",
+        "What do you put in these bags?"
+      ]
+    },
+    {
+      "topic": "Birthdays",
+      "questions": [
+        "How do you normally celebrate your birthday now?",
+        "Is your birthday now still as important to you as when you were a child?",
+        "Do you think it’s important to give someone a card when it’s their birthday?",
+        "Do you think the price of gifts/presents is important?"
+      ]
+    },
+    {
+      "topic": "Books",
+      "questions": [
+        "Do you like reading books? Why?",
+        "Do you have many books at home?",
+        "What are the benefits of reading?",
+        "Is reading books a popular activity in your country?"
+      ]
+    },
+    {
+      "topic": "Celebrity",
+      "questions": [
+        "Who is your favourite celebrity?",
+        "Do you like any foreign celebrities?",
+        "Would you want to be a celebrity in the future?",
+        "Do you think we should protect famous people’s privacy?"
+      ]
+    },
+    {
+      "topic": "Clothes, Fashion & Photos",
+      "questions": [
+        "What is your favourite item of clothing?",
+        "Is fashion important to you now?",
+        "Do you usually take photos of?",
+        "Do you prefer to send postcards to people or to send photos that you took yourself?"
+      ]
+    },
+    {
+      "topic": "Colours",
+      "questions": [
+        "What colours do you like?",
+        "What’s the most popular colour in your country?",
+        "Do you like to wear dark or bright colours?",
+        "Do colours affect your mood?"
+      ]
+    },
+    {
+      "topic": "Computer",
+      "questions": [
+        "Do you use computers?",
+        "What do you use a computer to do?",
+        "Did you use computers when you were little?",
+        "Will people continue to use computers in the future?"
+      ]
+    },
+    {
+      "topic": "Country",
+      "questions": [
+        "What is your country famous for?",
+        "Where do you live in your country?",
+        "Is it an interesting place to live?",
+        "Are you planning to live there in the future?"
+      ]
+    },
+    {
+      "topic": "Daily Routine",
+      "questions": [
+        "Tell me about your daily routine?",
+        "Has your daily routine changed since you were a child?",
+        "Is your daily routine different at the weekend to during the week?",
+        "Do you think it’s important to have a daily routine?"
+      ]
+    },
+    {
+      "topic": "Dictionaries",
+      "questions": [
+        "Do you ever use a dictionary?",
+        "Do you prefer paper or electronic dictionaries?",
+        "Are dictionaries used a lot in schools in your country?",
+        "Do you think dictionaries are useful for learning a language?"
+      ]
+    },
+    {
+      "topic": "Dreams",
+      "questions": [
+        "Do you dream much at night?",
+        "Do you often remember your dreams?",
+        "Do you think we can learn anything from dreams?",
+        "Do you think that dreams can come true?"
+      ]
+    },
+    {
+      "topic": "Email",
+      "questions": [
+        "Do you prefer to email, phone, or text your friends?",
+        "Do you reply to emails as soon as you receive them?",
+        "Are you happy to receive emails that are advertising things?",
+        "Do you think email will eventually replace letter writing?"
+      ]
+    },
+    {
+      "topic": "Exercise",
+      "questions": [
+        "Do you do much exercise?",
+        "Do you do more exercise now than when you were a child?",
+        "Do people in your country do a lot of exercise?",
+        "What do you think is the best exercise to keep fit?"
+      ]
+    },
+    {
+      "topic": "Family & Housework",
+      "questions": [
+        "How many people are there in your immediate family?",
+        "Why is family important to you?",
+        "Do you do housework at home?",
+        "Do you think that children should do housework?"
+      ]
+    },
+    {
+      "topic": "Flowers",
+      "questions": [
+        "Have you ever given anybody flowers?",
+        "Is it popular to give flowers to people in your country?",
+        "On what special occasions do people give flowers in your country?",
+        "What kinds of flowers would you like to receive as a present?"
+      ]
+    },
+    {
+      "topic": "Friends",
+      "questions": [
+        "Do you have a lot of friends?",
+        "Who is your best friend and why?",
+        "What kind of person can you make friends with easily?",
+        "Which is more important to you, friends or family?"
+      ]
+    },
+    {
+      "topic": "Food",
+      "questions": [
+        "Do you enjoy cooking?",
+        "What kinds of food are popular in your country?",
+        "Do you have a healthy diet?",
+        "Do you prefer eating at home or eating out?"
+      ]
+    },
+    {
+      "topic": "Gift & Noise",
+      "questions": [
+        "Do you mind noises?",
+        "Are cities becoming noisier?",
+        "When do you send gifts?",
+        "How do you feel when you receive a gift?"
+      ]
+    },
+    {
+      "topic": "High School",
+      "questions": [
+        "Who was your favourite teacher in high school?",
+        "What was your favourite subject in high school?",
+        "Do you still keep in touch with your friends from high school?",
+        "Do you miss your life in high school?"
+      ]
+    },
+    {
+      "topic": "Home",
+      "questions": [
+        "Who do you live with?",
+        "What is your favourite room in your home?",
+        "How is your home decorated?",
+        "Do you like visitors coming to your home?"
+      ]
+    },
+    {
+      "topic": "Hometown",
+      "questions": [
+        "Where is your hometown?",
+        "What do you like about it?",
+        "How has your hometown changed over the years?",
+        "Do you think you will continue to live in your hometown?"
+      ]
+    },
+    {
+      "topic": "Humour",
+      "questions": [
+        "What type of programmes do you find funny on TV?",
+        "Which types of programmes are most popular in your country?",
+        "What kind of things make you laugh?",
+        "Do you like to make people laugh?"
+      ]
+    },
+    {
+      "topic": "Indoor Activities & Transportation",
+      "questions": [
+        "Do you prefer public transportation or private transportation?",
+        "What’re the most popular means of transportation in your hometown?",
+        "Do you like indoor activities?",
+        "What types of indoor activities are popular in your country?"
+      ]
+    },
+    {
+      "topic": "Internet",
+      "questions": [
+        "How important is the Internet to you?",
+        "Do you use the Internet more for work or in your free time?",
+        "Do you think you use the Internet too much?",
+        "How will the Internet develop in the future?"
+      ]
+    },
+    {
+      "topic": "Lifestyle",
+      "questions": [
+        "What do you do in your free time?",
+        "Do you have a busy social life?",
+        "Has your life changed much in the last year?",
+        "What would you like to change about your lifestyle?"
+      ]
+    },
+    {
+      "topic": "Major",
+      "questions": [
+        "Do you work or study?",
+        "What is your major?",
+        "Why did you choose that major?",
+        "Do you plan to use the subject you are studying in the future?"
+      ]
+    },
+    {
+      "topic": "Mobile Phones",
+      "questions": [
+        "Do you have a mobile phone?",
+        "At what age did you first get a mobile?",
+        "What do you most use it for?",
+        "Is it a nuisance if people use mobiles in public places such as trains and buses?"
+      ]
+    },
+    {
+      "topic": "Movies",
+      "questions": [
+        "How often do you go to the cinema?",
+        "Are cinema tickets expensive in your country?",
+        "What are the advantages of seeing a film at the cinema?",
+        "Do you usually watch films alone or with others?"
+      ]
+    },
+    {
+      "topic": "Museums",
+      "questions": [
+        "Are museums popular in your country?",
+        "Did you visit museums when you were a child?",
+        "Do you like to visit museums nowadays?",
+        "Do you think you should pay to visit museums?"
+      ]
+    },
+    {
+      "topic": "Music",
+      "questions": [
+        "How do you listen to music?",
+        "What’s your favourite kind of music?",
+        "Is music an important subject at school in your country?",
+        "Do you like to listen to live music?"
+      ]
+    },
+    {
+      "topic": "Musical Instruments",
+      "questions": [
+        "Do you think it’s important for children to learn to play a musical instrument?",
+        "Have you ever learned to play a musical instrument?",
+        "What do you think is the best age to start learning to play a musical instrument?",
+        "What do you think would be the most difficult musical instrument to learn to play?"
+      ]
+    },
+    {
+      "topic": "Neighbours",
+      "questions": [
+        "Do you know the people who live next door to you?",
+        "How often do you see each other?",
+        "How can neighbours be helpful?",
+        "What kind of problems can people have with their neighbours in a big city?"
+      ]
+    },
+    {
+      "topic": "Newspaper And Magazine",
+      "questions": [
+        "Which do you prefer reading, newspapers or magazines?",
+        "Do you often read newspapers?",
+        "Do you prefer to read local news or international news?",
+        "Do you think newspapers will be very important to you in the future?"
+      ]
+    },
+    {
+      "topic": "Outdoor Activities",
+      "questions": [
+        "Do you like outdoor activities?",
+        "What outdoor sports do you like?",
+        "How much time do you spend outdoors every week?",
+        "What types of outdoor activities are popular in your country?"
+      ]
+    },
+    {
+      "topic": "Patience & Politeness",
+      "questions": [
+        "Do you think you are a patient person?",
+        "Have you ever lost your patience?",
+        "Are you a polite person?",
+        "Is it important to be polite?"
+      ]
+    },
+    {
+      "topic": "Public Transport",
+      "questions": [
+        "What kinds of public transport do you have in your country?",
+        "What kinds of public transport do most people use?",
+        "What is your favourite type of public transport?",
+        "How could public transport in your country be improved?"
+      ]
+    },
+    {
+      "topic": "Seasons",
+      "questions": [
+        "What is your favourite season?",
+        "Tell me about the different seasons in your country.",
+        "How do the clothes people wear in your country change with the seasons?",
+        "Is tourism popular in a particular season in your country?"
+      ]
+    },
+    {
+      "topic": "Sports",
+      "questions": [
+        "Do you play any sports?",
+        "Do you watch sports on TV?",
+        "What is the most popular sport in your country?",
+        "Is it important for children to play sports?"
+      ]
+    },
+    {
+      "topic": "The internet",
+      "questions": [
+        "Do you use The Internet?",
+        "Do you think that The Internet is useful for study?",
+        "Have you ever used The Internet to buy something?",
+        "Are there any dangers in buying things online?"
+      ]
+    },
+    {
+      "topic": "The Sea",
+      "questions": [
+        "Do you like to go on holiday by sea?",
+        "Are there many hotels by the sea in your country?",
+        "What kind of activities can people do by the sea?",
+        "How long do people normally visit the sea when they go on holiday?"
+      ]
+    },
+    {
+      "topic": "Timing",
+      "questions": [
+        "Is being late acceptable in your culture?",
+        "Are you ever late for appointments?",
+        "What type of excuses do you think are alright for lateness?",
+        "How do you feel when someone is late for an appointment with you?"
+      ]
+    },
+    {
+      "topic": "Travel",
+      "questions": [
+        "Where was the last place you visited on holiday?",
+        "Would you like to go back there again?",
+        "What kind of tourist destinations do you usually prefer?",
+        "What’s the best way to save money while travelling?"
+      ]
+    },
+    {
+      "topic": "Trees",
+      "questions": [
+        "Do you like trees?",
+        "Are there many trees in your hometown?",
+        "Do you think there are enough trees in most cities?",
+        "What are the benefits of planting more trees?"
+      ]
+    },
+    {
+      "topic": "TV",
+      "questions": [
+        "Do you like watching TV?",
+        "How often do you watch TV?",
+        "What kind of TV programmes do you like to watch?",
+        "Has the internet affected your viewing habits?"
+      ]
+    },
+    {
+      "topic": "Volunteer Works",
+      "questions": [
+        "Have you ever worked before?",
+        "What was your first day at work like?",
+        "Have you participated in any volunteer work?",
+        "Why did you do the volunteer work?"
+      ]
+    },
+    {
+      "topic": "Weather",
+      "questions": [
+        "What’s your favourite kind of weather?",
+        "What is the climate like in your country?",
+        "Does the weather affect people’s lives in your country?",
+        "Would you like to move to a place with different weather?"
+      ]
+    },
+    {
+      "topic": "Work",
+      "questions": [
+        "Do you have a job right now?",
+        "Do you enjoy your job?",
+        "What would you change about your job?",
+        "What job do you think you will be doing in five years?"
+      ]
+    },
+    {
+      "topic": "Writing",
+      "questions": [
+        "Do you enjoy writing?",
+        "What age do children normally learn to write in your country?",
+        "Did you write a lot when you were a child?",
+        "Do you prefer writing letters or sending emails?"
+      ]
+    }
+  ]
+}
